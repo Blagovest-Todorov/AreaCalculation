@@ -20,4 +20,4 @@ how to calulate rectangle or triangle area
             Console.WriteLine("The area  of your  figure is {0}", area);
         }
     }
-}
+
